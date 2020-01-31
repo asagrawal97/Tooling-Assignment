@@ -41,6 +41,8 @@ git config --global user.email "<youremail@example.com>"
 
 If you do not already have VirtualBox 6.x installed, use the package manager to install VirtualBox.  Take a screenshot of the VirtualBox > Help > About VirtualBox output.  If you have 6.0.x at the moment, no need to upgrade.
 
+![image](https://user-images.githubusercontent.com/36481628/73502500-cce1f980-438e-11ea-9847-57695aedfe34.png)
+
 In chocolatey you can pin the VirtualBox version with this syntax (it needs to be on a line by itself)
 ```choco install virtualbox --version 6.0.16```
 

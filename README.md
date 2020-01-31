@@ -35,6 +35,7 @@ You will need to configure Git if you already haven't done so.  From a shell run
 git config --global user.name "<Your Name>"
 git config --global user.email "<youremail@example.com>"
 ```
+![image](https://user-images.githubusercontent.com/36481628/73502448-a2903c00-438e-11ea-9abc-eee725ee5b91.png)
 
 ## Install VirtualBox
 

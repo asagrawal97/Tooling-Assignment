@@ -92,6 +92,8 @@ After installing an IDE editor of your choice, pick one of the listed or you can
   * Built for a MacOS native experience, A sophisticated text editor for code, markup and prose.  Available for all platforms.
 * [Adobe Brackets](http://brackets.io/ "Adobe Brackets Install")
   * Cross Platform development tool from Adobe
+  
+  ![image](https://user-images.githubusercontent.com/36481628/73503175-23e8ce00-4391-11ea-813b-bdbd5f2c0e34.png)
 
 ## Git-It Tutorial
 

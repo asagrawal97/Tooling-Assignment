@@ -26,6 +26,8 @@ Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https
 Using the package manager from the previous step, install the Git Client if you do not already have it installed.  **Note**, this is different from the GitHub Desktop tool, which we will not be using this semester.
 Place a screenshot of the output of the command: ```git --version```
 
+![image](https://user-images.githubusercontent.com/36481628/73501966-1598b300-438d-11ea-8444-9bcf058e5506.png)
+
 You will need to configure Git if you already haven't done so.  From a shell run these two commands:
 
 ```bash

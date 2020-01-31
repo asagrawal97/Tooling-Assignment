@@ -60,6 +60,8 @@ Version 6.x works with Vagrant 2.2.6
 
 Using a package manager, install the latest version of [Vagrant](https://vagrantup.com "Vagrant download site").  If you have a version 2.2.x you will be ok.  Note, if on Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.  Place a screenshot of the output of the command: ```vagrant --version```
 
+![image](https://user-images.githubusercontent.com/36481628/73502554-074b9680-438f-11ea-9bc6-43c7dc4b1676.png)
+
 Complete the Vagrant tutorial located at [https://www.vagrantup.com/intro/getting-started/index.html](https://www.vagrantup.com/intro/getting-started/index.html "Vagrant tutorial"), up to the TEARDOWN step, skipping the SHARE step.  
 
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
@@ -71,6 +73,8 @@ Version 6.x works with Vagrant 2.2.6
 ## Install Packer.io
 
 Using a package manager, install the latest version of [Packer](https://packer.io "Packer install site").  If you have a version > 1.4.x you will be ok. Note, if on Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.  Place a screenshot of the output of the command: ```packer --version```
+
+![image](https://user-images.githubusercontent.com/36481628/73502593-23e7ce80-438f-11ea-9207-8821a146f554.png)
 
 I have a series of samples that I use from Packer to build images.  Clone this sample repo to your computer: ```git clone https://github.com/jhajek/packer-vagrant-build-scripts```  navigate to the ```packer/vanilla-install``` directory from the command line.  Issue the command: ```packer build ubuntu18043-vanilla.json```
 

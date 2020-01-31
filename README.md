@@ -66,6 +66,8 @@ Complete the Vagrant tutorial located at [https://www.vagrantup.com/intro/gettin
 
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
 
+![image](https://user-images.githubusercontent.com/36481628/73508692-5cdd6e80-43a2-11ea-9c1c-4d8d51a01953.png)
+
 **Note** - there is some incompatibility with VirtualBox 6.1.x and Vagrant 2.2.6. There is currently a manual workaround at [https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga](https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga "VirtualBox manual Workaround").
 
 Version 6.x works with Vagrant 2.2.6

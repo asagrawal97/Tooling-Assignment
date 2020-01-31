@@ -103,6 +103,8 @@ Download, extract, and execute the Git-It tutorial, located: [https://github.com
 
 Post a screenshot of your completion badge (or dots) after you finish the tutorial.
 
+![image](https://user-images.githubusercontent.com/36481628/73513563-94a0e200-43b3-11ea-8580-050cd10902b2.png)
+
 ## Create and Push your Readme.md
 
 Final step, is to clone the Private GitHub repo you have been provided with by the professor (you received an invite email to it).  If you already have a private repo provided by the professor from a previous class, just create a new folder named **itmd-521**, no spaces! Ever! and push your new folder along with a Readme.md file and a folder named **images**.  

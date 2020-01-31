@@ -1,7 +1,7 @@
 # Akshita Agrawal
 
-![Me](images/me.jpg "Me")
-![Reading](images/reading.jpg "Reading")
+![me](https://user-images.githubusercontent.com/36481628/73516062-f6197e80-43bc-11ea-8e52-f3ab97f7f8c8.jpg)
+![reading image](https://user-images.githubusercontent.com/36481628/73516141-18ab9780-43bd-11ea-8228-cc66fe958bf5.jpg)
 
 ## Where are you from?
 
@@ -17,4 +17,4 @@ I really enjoy reading. I love reading from actual hard copies of books, but rec
 
 ## Git-IT Tutorial Badge
 
-![Git Tutorial](images/git-it.png "Git")
+![git-it](https://user-images.githubusercontent.com/36481628/73516165-26611d00-43bd-11ea-83d2-950a540a8b6f.png)
